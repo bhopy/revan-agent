@@ -1,0 +1,5 @@
+[model]
+path = "path/to/your-model.gguf"
+
+[pipe]
+name = "\\.\pipe\revan-agent"
